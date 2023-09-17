@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">FroggerProggerShop</string>
+
+    <!--Категории категорий-->
+    <string name="products">Продукты</string>
+    <string name="computer">Компьютеры</string>
+    <string name="frogs">Жабки</string>
+    <string name="games">Игры</string>
+
+    <!--Имена таблиц-->
+    <string name="Categories">Categories</string>
+    <string name="Promocods">Promocods</string>
+    <string name="Products">Products</string>
+
+    <!--Описание продуктов-->
+    <string name="marmelados_description">Вкуснейшие мармеладки от фирмы Haribo! Попробуйте их сейчас!</string>
+    <string name="berries_marmelados_description">Очень вкусные ягодные мармеладки, вкус которых поразит вас до глубины сознания!</string>
+    <string name="holy_spring_description">Чистая вода от фирмы Святой Источник. Святая водичка!</string>
+    <string name="chocolate_description">Ммм... Вкусный карамельный шоколад Милка. Как же хочется его съесть.</string>
+    <string name="bread_description">Вкуснейшие мармеладки от фирмы Haribo! Попробуйте их сейчас!</string>
+
+    <!--Описание комппьютеров-->
+    <string name="cuber_comp_description">Это потрясающий игровой компьютер. Вместительный корпис, 16гб оперативки, блок питания на 1кв. Компьютер тянет все игры на ура! Мощный процессор AMD Ryzen 5700 делает его невероятно быстрым!</string>
+    <string name="game_comp_description">Компьютер iRU Game 310H5GMA, Intel Core i5 11400F, DDR4 16ГБ, 1ТБ(SSD), NVIDIA GeForce RTX 3060 - 12288 Мб, Free DOS, черный</string>
+    <string name="klava1_description">Клавиатура A4TECH Bloody B314, USB, c подставкой для запястий, черный</string>
+    <string name="klava2_description">Клавиатура A4TECH Bloody B930, USB, черный</string>
+    <string name="mouse1_description">Мышь A4TECH Bloody V7, игровая, оптическая, проводная, USB, черный</string>
+    <string name="mouse2_description">Мышь A4TECH Bloody V8, игровая, оптическая, проводная, USB, черный</string>
+
+    <!--Описание жабок-->
+    <string name="frog1_description">Потрясающая и милая жабка. Она такая милая... Обожаем жабок!</string>
+    <string name="frog2_description">Это жабка узкоротик. Она обычно живёт в Африке. Но такая милашка!</string>
+    <string name="frog3_description">Это жабка узкоротик. Ультралапочка милашка. Всем советую. Она обычно живёт в Африке. Но такая милашка!</string>
+
+    <!--Описание игр-->
+    <string name="game1_description">«Ведьмак 3: Дикая Охота» — это сюжетная ролевая игра с открытым миром. Её действие разворачивается в поразительной волшебной вселенной, и любое ваше решение может повлечь за собой серьёзные последствия. Вы играете за профессионального охотника на монстров Геральта из Ривии</string>
+    <string name="game2_description">Это монументальная ролевая игра, где главный герой является Драконорожденным, способным использовать собственный голос для убийства драконов и всех тех бедняг, которые подвернутся ему на пути.</string>
+    <string name="game3_description">Сюжет игры Варкрафт 3 описывает конфликт между четырьмя расами: людьми, эльфами, орками и нежитью, борющимися за господство на фантастическом континенте Азерот. Главными героями игры являются несколько лидеров этих рас, каждый из которых имеет свою уникальную историю и цель в игре.</string>
+</resources>
